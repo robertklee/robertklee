@@ -5,7 +5,7 @@
 - **firmware engineering and embedded systems**
 - **software engineering**
 
-💼 I'm currently working at **Microsoft** as a Software Engineer Intern.
+#### 💼 Workplace: **Microsoft** Software Engineer Intern.
 
 #### 👨‍💻 I'm currently working on:
 - building and hosting my own personal website (check it out [here](www.robertkl.com)!)
