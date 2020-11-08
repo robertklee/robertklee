@@ -21,12 +21,6 @@ Implementation of DCT algorithm in C and performance optimization using more eff
 - **Computer Vision Project on Monocular Depth Estimation**:
 A CNN for depth estimation on DrivingStereo dataset using Keras & Python.
 
-- **Networked Game Application: Royal Game of Ur**:
-A multi-user two-player online game implemented using Python, Bottle, React, and SQLite & server-side logic.
-
-- **Battlesnake Reinforcement Learning AI Design**:
-Challenge: Classic snake game mechanics, but with up to 7 opponent snakes. Collisions with longer snakes or starvation result in death. Design algorithm to control snake in real-time game. Goal: Survive the longest.
-
 - and more... (check my repositories)
 
 📝 Reach out to me on [LinkedIn](https://www.linkedin.com/in/robert-k-lee/) if you want to collaborate or connect!
