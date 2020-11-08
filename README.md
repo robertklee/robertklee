@@ -5,7 +5,7 @@
 - **firmware engineering and embedded systems**
 - **software engineering**
 
-I'm currently working at **Microsoft** as a Software Engineer Intern.
+💼 I'm currently working at **Microsoft** as a Software Engineer Intern.
 
 #### 👨‍💻 I'm currently working on:
 - building and hosting my own personal website (check it out [here](www.robertkl.com)!)
@@ -29,7 +29,7 @@ Challenge: Classic snake game mechanics, but with up to 7 opponent snakes. Colli
 
 - and more... (check my repositories)
 
-Reach out to me on [LinkedIn](https://www.linkedin.com/in/robert-k-lee/) if you want to collaborate or connect!
+📝 Reach out to me on [LinkedIn](https://www.linkedin.com/in/robert-k-lee/) if you want to collaborate or connect!
 
 <!--
 **robertklee/robertklee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
