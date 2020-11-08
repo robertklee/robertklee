@@ -23,7 +23,7 @@ A CNN for depth estimation on DrivingStereo dataset using Keras & Python.
 
 - and more... (check my repositories)
 
-📝 Reach out to me on [LinkedIn](https://www.linkedin.com/in/robert-k-lee/) if you want to collaborate or connect!
+#### 📝 Reach out to me on [LinkedIn](https://www.linkedin.com/in/robert-k-lee/) if you want to collaborate or connect!
 
 <!--
 **robertklee/robertklee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
