@@ -8,7 +8,7 @@
 #### 💼 Workplace: **Microsoft** Software Engineer Intern.
 
 #### 👨‍💻 I'm currently working on:
-- building and hosting my own personal website (check it out [here](www.robertkl.com)!)
+- building and hosting my own personal website (check it out [here](https://www.robertkl.com)!)
 - creating a computer vision project for 3D bounding box for autonomous vehicle applications
 
 #### ✅ Some of my most exciting projects include:
