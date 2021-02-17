@@ -10,6 +10,7 @@
 #### 👨‍💻 I'm currently working on:
 - building and hosting my own personal website (check it out [here](https://www.robertkl.com)!)
 - creating a computer vision project for 3D bounding box for autonomous vehicle applications
+- leading a team to implement human pose estimation using deep neural networks
 
 #### ✅ Some of my most exciting projects include:
 - **Road Segmentation Machine Learning Project on KITTI ROAD dataset**:
