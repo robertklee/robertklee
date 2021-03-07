@@ -1,16 +1,16 @@
-### Hi there 👋
+### Welcome to my GitHub! 😁
 
-👋 I am an award-winning and ambitious 4th year **electrical/computer engineering** student interested in:
-- **machine learning (specifically computer vision for autonomous vehicles)**
-- **firmware engineering and embedded systems**
+👋 I am an award-winning and ambitious 4th year **electrical/computer engineering** student passionate about:
+- **machine learning (specifically computer vision problems)**
 - **software engineering**
+- **firmware engineering and embedded systems**
 
-#### 💼 Workplace: Incoming **Microsoft** Software Engineer.
+#### 💼 Workplace: Incoming Microsoft Software Engineer.
 
 #### 👨‍💻 I'm currently working on:
 - building and hosting my own personal website (check it out [here](https://www.robertkl.com)!)
+- leading a team to design a deep neural network for human pose estimation (labelling 
 - creating a computer vision project for 3D bounding box for autonomous vehicle applications
-- leading a team to implement human pose estimation using deep neural networks
 
 #### ✅ Some of my most exciting projects include:
 - **Road Segmentation Machine Learning Project on KITTI ROAD dataset**:
@@ -21,8 +21,6 @@ Implementation of DCT algorithm in C and performance optimization using more eff
 
 - **Computer Vision Project on Monocular Depth Estimation**:
 A CNN for depth estimation on DrivingStereo dataset using Keras & Python.
-
-- and more... (check my repositories)
 
 #### 📝 Reach out to me on [LinkedIn](https://www.linkedin.com/in/robert-k-lee/) if you want to collaborate or connect!
 
