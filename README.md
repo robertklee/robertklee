@@ -17,7 +17,7 @@
 A convolutional neural network (CNN) for semantic segmentation of road surfaces within a driving context.
 
 - **Embedded C Optimization Project with Discrete Cosine Transform algorithm**:
-Implementation of DCT algorithm in C and performance optimization using more efficient software algorithms, software-level optimizations, and hypothetical firmware- and hardware-based optimizations.
+Implementation of DCT algorithm in C and optimizing performance using more efficient software algorithms, software-level optimizations, and hypothetical firmware- and hardware-based optimizations.
 
 - **Computer Vision Project on Monocular Depth Estimation**:
 A CNN for depth estimation on DrivingStereo dataset using Keras & Python.
