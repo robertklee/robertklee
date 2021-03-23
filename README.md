@@ -9,7 +9,7 @@
 
 #### 👨‍💻 I'm currently working on:
 - building and hosting my own personal website (check it out [here](https://www.robertkl.com)!)
-- leading a team to design a deep neural network for human pose estimation (labelling 
+- leading a team to design and train a deep neural network for human pose estimation (labelling various joint locations)
 - creating a computer vision project for 3D bounding box for autonomous vehicle applications
 
 #### ✅ Some of my most exciting projects include:
