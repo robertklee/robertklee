@@ -1,6 +1,6 @@
 ### Welcome to my GitHub! 😁
 
-👋 I am an award-winning and ambitious grad in **electrical/computer engineer** passionate about:
+👋 I am an award-winning and ambitious grad in **electrical/computer engineering** passionate about:
 - **machine learning (specifically computer vision problems)**
 - **software engineering**
 - **firmware engineering and embedded systems**
