@@ -1,6 +1,6 @@
 ### Welcome to my GitHub! 😁
 
-👋 I am an award-winning and ambitious 4th year **electrical/computer engineering** student passionate about:
+👋 I am an award-winning and ambitious grad in **electrical/computer engineer** passionate about:
 - **machine learning (specifically computer vision problems)**
 - **software engineering**
 - **firmware engineering and embedded systems**
@@ -9,10 +9,12 @@
 
 #### 👨‍💻 I'm currently working on:
 - building and hosting my own personal website (check it out [here](https://www.robertkl.com)!)
-- leading a team to design and train a deep neural network for human pose estimation (labelling various joint locations)
 - creating a computer vision project for 3D bounding box for autonomous vehicle applications
 
 #### ✅ Some of my most exciting projects include:
+- **Human Pose Estimation on COCO 2017 Dataset**:
+I led a team to design and train a deep neural network for human pose estimation (labelling various joint locations). Using a slightly modified stacked hourglass network, we achieved results comparable with state-of-the-art from late 2017, in less than three months of work.
+
 - **Road Segmentation Machine Learning Project on KITTI ROAD dataset**:
 A convolutional neural network (CNN) for semantic segmentation of road surfaces within a driving context.
 
