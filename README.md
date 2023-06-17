@@ -5,7 +5,7 @@
 - **software engineering**
 - **firmware engineering and embedded systems**
 
-#### 💼 Workplace: Microsoft Software Engineer.
+#### 💼 Workplace: Microsoft Software Engineer II.
 
 #### 👨‍💻 I'm currently working on:
 - building and hosting my own personal website (check it out [here](https://www.robertkl.com)!)
