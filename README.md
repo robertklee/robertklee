@@ -1,11 +1,12 @@
-### Welcome to my GitHub! 😁
+### Welcome to my GitHub!
 
-👋 I am an award-winning and ambitious grad in **electrical/computer engineering** passionate about:
+👋 I am an award-winning and ambitious B.Eng. in **electrical/computer engineering** passionate about:
 - **machine learning (specifically computer vision problems)**
 - **software engineering**
 - **firmware engineering and embedded systems**
 
 #### 💼 Workplace: Microsoft Software Engineer II.
+I currently work on vector search within Azure Search team.
 
 #### 👨‍💻 I'm currently working on:
 - building and hosting my own personal website (check it out [here](https://www.robertkl.com)!)
