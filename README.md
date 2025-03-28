@@ -5,8 +5,8 @@
 - **software engineering**
 - **firmware engineering and embedded systems**
 
-#### 💼 Workplace: Microsoft Software Engineer II.
-I currently work on vector search within Azure Search team.
+#### 💼 Workplace: Senior Software Engineer @ Microsoft.
+I’m an award-winning software engineer with a B.Eng with distinction in computer engineering, specializing in machine learning and software engineering. Currently, I’m working at Microsoft at the intersection of information retrieval, vector search, and search relevance, harnessing the power of large language models to deliver AI-empowered enterprise search relevance and Retrieval Augmented Generation chat completion scenarios.
 
 #### 👨‍💻 I'm currently working on:
 - building and hosting my own personal website (check it out [here](https://www.robertkl.com)!)
