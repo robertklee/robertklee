@@ -1,16 +1,17 @@
 ### Welcome to my GitHub!
 
 👋 I am an award-winning and ambitious B.Eng. in **electrical/computer engineering** passionate about:
-- **machine learning (specifically computer vision problems)**
-- **software engineering**
-- **firmware engineering and embedded systems**
+- **machine learning (in particular, LLMs and computer vision)**
+- **distributed systems**
+- **information retrieval & search**
+- **agents**
 
 #### 💼 Workplace: Senior Software Engineer @ Microsoft.
 I’m an award-winning software engineer with a B.Eng with distinction in computer engineering, specializing in machine learning and software engineering. Currently, I’m working at Microsoft at the intersection of information retrieval, vector search, and search relevance, harnessing the power of large language models to deliver AI-empowered enterprise search relevance and Retrieval Augmented Generation chat completion scenarios.
 
 #### 👨‍💻 I'm currently working on:
-- building and hosting my own personal website (check it out [here](https://www.robertkl.com)!)
-- creating a computer vision project for 3D bounding box for autonomous vehicle applications
+- check out my website, complete with a chat experience, [here](https://www.robertkl.com)!)
+- currently working on a project exploring harness engineering and agent memory.
 
 #### ✅ Some of my most exciting projects include:
 - **Human Pose Estimation on COCO 2017 Dataset**:
