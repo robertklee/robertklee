@@ -15,9 +15,7 @@ I’m an award-winning software engineer with a B.Eng with distinction in comput
 
 #### ✅ Some of my most exciting projects include:
 - **Human Pose Estimation on COCO 2017 Dataset**:
-I led a team to design and train a deep neural network for human pose estimation (labelling various joint locations). Using a modified stacked hourglass network and a newly implemented data ingestion and preprocessing pipeline, we achieved results comparable with state-of-the-art from late 2017, in less than three months of work.
-
-Check out our deployed model [here](coco-human-pose.streamlit.app)
+I led a team to design and train a deep neural network for human pose estimation (labelling various joint locations). Using a modified stacked hourglass network and a newly implemented data ingestion and preprocessing pipeline, we achieved results comparable with state-of-the-art from late 2017, in less than three months of work. Check out our deployed model [here](coco-human-pose.streamlit.app)
 
 - **Road Segmentation Machine Learning Project on KITTI ROAD dataset**:
 A convolutional neural network (CNN) for semantic segmentation of road surfaces within a driving context.
